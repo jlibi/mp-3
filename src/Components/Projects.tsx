@@ -122,7 +122,7 @@ export default function Projects() {
                     <hr style={{margin: "4vh 0vw"}} />
                     <SubHeading>My GitHub Projects</SubHeading>
                     <ProjectsList>
-                        <li><a href="https://github.com/jlibi/CS-665-Class-Project">Project 1</a></li>
+                        <li><a href="https://github.com/jlibi/aqi-app">Project 1</a></li>
                         <li><a href="https://github.com/jlibi/arcade-game">Project 2</a></li>
                     </ProjectsList>
                 </ProjectsSection>
